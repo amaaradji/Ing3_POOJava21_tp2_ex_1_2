@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package com.mycompany.tp2;
+package ing3_poojava21_tp2_ex_1_2;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -29,7 +29,7 @@ public class Main {
         p1.afficher();
         
         System.out.print("p2 ");
-        p3.afficher();
+        p2.afficher();
         
         System.out.print("p3 ");
         p3.afficher();
